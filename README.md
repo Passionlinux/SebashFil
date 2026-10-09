@@ -1,5 +1,4 @@
 # SebashFil
-le forum de SebashBlog
 
 SebashFil est un petit espace de discussion destiné à accompagner SebashBlog. On peut y ouvrir un sujet et y répondre avec un pseudonyme, sans créer de compte. Le projet est écrit en PHP et ne demande ni base de données ni bibliothèque externe.
 
@@ -16,6 +15,7 @@ Le projet a commencé comme un prototype très dépouillé. Il s’appelle maint
 ## Ce que fait le forum
 
 - Les visiteurs peuvent ouvrir une discussion et répondre avec un pseudonyme.
+- L’icône `icon.svg` relie deux bulles avec un fil orange en forme de S, dans les couleurs du logo SebashBlog.
 - Les messages sont publics et affichés en texte brut ; le HTML fourni par les visiteurs est échappé.
 - Les discussions sont stockées dans un fichier JSON, sans base SQL.
 - Une modération facultative permet de supprimer un message ou une discussion entière.

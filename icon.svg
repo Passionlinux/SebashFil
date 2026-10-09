@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">Icône SebashFil</title>
+  <desc id="description">Deux bulles reliées par un fil orange en forme de S.</desc>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#17212b"/>
+  <path d="M15 9h19a6 6 0 0 1 6 6v9a6 6 0 0 1-6 6H24l-8 6v-6h-1a6 6 0 0 1-6-6v-9a6 6 0 0 1 6-6Z" fill="none" stroke="#f4f1e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8"/>
+  <path d="M36 29h12a6 6 0 0 1 6 6v9a6 6 0 0 1-6 6h-3v6l-8-6h-1a6 6 0 0 1-6-6v-9a6 6 0 0 1 6-6Z" fill="none" stroke="#f4f1e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8"/>
+  <path d="M16 18h13c5 0 5 7 0 7h-2c-5 0-5 7 0 7h13" transform="translate(0 50) scale(1 -1)" fill="none" stroke="#e9903e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2"/>
+</svg>

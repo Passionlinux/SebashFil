@@ -291,12 +291,13 @@ $csrf = (string) $_SESSION['csrf'];
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <title><?= e($selectedTopic['title'] ?? $forumTitle) ?> · <?= e($forumTitle) ?></title>
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <main class="layout">
     <header class="site-header">
-        <a class="brand" href="./"><?= e($forumTitle) ?></a>
+        <a class="brand" href="./"><img src="icon.svg" width="48" height="48" alt=""><span><?= e($forumTitle) ?></span></a>
         <p>Un endroit simple pour poser une question et en discuter.</p>
     </header>
 

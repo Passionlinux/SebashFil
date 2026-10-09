@@ -42,7 +42,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 }
 .layout { width: min(100% - 2rem, 1080px); margin: 3rem auto; }
 .site-header { margin: 0 0 1.5rem; }
-.brand { color: var(--text); font-size: clamp(1.7rem, 4vw, 2.4rem); font-weight: 760; letter-spacing: -.04em; text-decoration: none; }
+.brand { display: inline-flex; align-items: center; gap: .8rem; color: var(--text); font-size: clamp(1.7rem, 4vw, 2.4rem); font-weight: 760; letter-spacing: -.04em; text-decoration: none; }
+.brand img { display: block; width: 48px; height: 48px; border-radius: .8rem; box-shadow: var(--shadow); }
 .site-header p, .subtle, .hint, .site-footer { color: var(--muted); }
 .site-header p { margin: .25rem 0 0; }
 .columns { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(280px, .8fr); align-items: start; gap: 1rem; }
