@@ -1,5 +1,7 @@
 # SebashFil
 
+![Logo de SebashFil](icon.svg)
+
 SebashFil est un petit espace de discussion destiné à accompagner SebashBlog. On peut y ouvrir un sujet et y répondre avec un pseudonyme, sans créer de compte. Le projet est écrit en PHP et ne demande ni base de données ni bibliothèque externe.
 
 ## Pourquoi un nouvel outil ?
